@@ -1,4 +1,4 @@
-cocos2d-x-extensions
-====================
+CCCallLambda
+============
 
-Helper functions and extensions for cocos2d-x
+Instant action using c++11 lambda function for cocos2d-x.
